@@ -1,0 +1,40 @@
+[INFO ] 2024-03-10 10:29:00.884 [main] UserTest2 - Creating a user
+[INFO ] 2024-03-10 10:29:03.396 [main] UserTest2 - User is created
+[INFO ] 2024-03-10 10:29:03.405 [main] UserTest2 - Reading user info
+[INFO ] 2024-03-10 10:29:04.487 [main] UserTest2 - User info is displayed
+[INFO ] 2024-03-10 10:29:04.490 [main] UserTest2 - Updating a user
+[INFO ] 2024-03-10 10:29:06.676 [main] UserTest2 - User is updated
+[INFO ] 2024-03-10 10:29:06.683 [main] UserTest2 - Deleting a user
+[INFO ] 2024-03-10 10:29:07.776 [main] UserTest2 - User is deleted
+[INFO ] 2024-03-10 11:39:55.670 [main] UserTest2 - Creating a user
+[INFO ] 2024-03-10 11:39:58.484 [main] UserTest2 - User is created
+[INFO ] 2024-03-10 11:39:58.493 [main] UserTest2 - Reading user info
+[INFO ] 2024-03-10 11:39:59.614 [main] UserTest2 - User info is displayed
+[INFO ] 2024-03-10 11:39:59.620 [main] UserTest2 - Updating a user
+[INFO ] 2024-03-10 11:40:01.933 [main] UserTest2 - User is updated
+[INFO ] 2024-03-10 11:40:01.939 [main] UserTest2 - Deleting a user
+[INFO ] 2024-03-10 11:40:03.012 [main] UserTest2 - User is deleted
+[INFO ] 2024-03-10 11:41:10.744 [main] UserTest - Creating a user
+[INFO ] 2024-03-10 11:41:13.078 [main] UserTest - User is created
+[INFO ] 2024-03-10 11:41:13.083 [main] UserTest - Reading user info
+[INFO ] 2024-03-10 11:41:14.224 [main] UserTest - User info is displayed
+[INFO ] 2024-03-10 11:41:14.227 [main] UserTest - Updating a user
+[INFO ] 2024-03-10 11:41:16.403 [main] UserTest - User is updated
+[INFO ] 2024-03-10 11:41:16.407 [main] UserTest - Deleting a user
+[INFO ] 2024-03-10 11:41:17.477 [main] UserTest - User is deleted
+[INFO ] 2024-03-10 12:08:46.903 [main] UserTest2 - Creating a user
+[INFO ] 2024-03-10 12:08:49.342 [main] UserTest2 - User is created
+[INFO ] 2024-03-10 12:08:49.352 [main] UserTest2 - Reading user info
+[INFO ] 2024-03-10 12:08:50.437 [main] UserTest2 - User info is displayed
+[INFO ] 2024-03-10 12:08:50.444 [main] UserTest2 - Updating a user
+[INFO ] 2024-03-10 12:08:52.657 [main] UserTest2 - User is updated
+[INFO ] 2024-03-10 12:08:52.660 [main] UserTest2 - Deleting a user
+[INFO ] 2024-03-10 12:08:53.740 [main] UserTest2 - User is deleted
+[INFO ] 2024-03-10 17:44:19.399 [main] UserTest2 - Creating a user
+[INFO ] 2024-03-10 17:44:23.556 [main] UserTest2 - User is created
+[INFO ] 2024-03-10 17:44:23.572 [main] UserTest2 - Reading user info
+[INFO ] 2024-03-10 17:44:24.635 [main] UserTest2 - User info is displayed
+[INFO ] 2024-03-10 17:44:24.638 [main] UserTest2 - Updating a user
+[INFO ] 2024-03-10 17:44:26.788 [main] UserTest2 - User is updated
+[INFO ] 2024-03-10 17:44:26.790 [main] UserTest2 - Deleting a user
+[INFO ] 2024-03-10 17:44:27.817 [main] UserTest2 - User is deleted
